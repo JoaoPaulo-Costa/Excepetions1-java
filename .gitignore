@@ -24,7 +24,6 @@ hs_err_pid*
 
 # ignora quaisquer diretórios chamados "idea"
 TryCatch/
-ExceptionPersonalizada/
 .idea/
 
 # arquivos .iml
